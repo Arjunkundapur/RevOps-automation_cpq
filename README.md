@@ -1,4 +1,4 @@
-# Lumana CPQ → RevOps Webhook Pipeline (Odoo + FastAPI + Postgres)
+# CPQ → RevOps Webhook Pipeline (Odoo + FastAPI + Postgres)
 
 A lightweight, end-to-end demo of how Revenue Operations can turn **“quote accepted”** events into **reliable, auditable revenue data** that powers provisioning, billing, analytics, and forecasting.
 
